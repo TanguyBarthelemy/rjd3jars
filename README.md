@@ -10,7 +10,7 @@ status](https://www.r-pkg.org/badges/version/rjd3jars)](https://CRAN.R-project.o
 [![Mentioned in Awesome Official
 Statistics](https://awesome.re/mentioned-badge.svg)](https://github.com/SNStatComp/awesome-official-statistics-software)
 
-[![R-CMD-check](https://github.com/rjdverse/rjd3jars/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/rjdverse/rjd3jars/actions/workflows/R-CMD-check.yaml)
+[![`R-CMD-check`](https://github.com/rjdverse/rjd3jars/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/rjdverse/rjd3jars/actions/workflows/R-CMD-check.yaml)
 [![lint](https://github.com/rjdverse/rjd3jars/actions/workflows/lint.yaml/badge.svg)](https://github.com/rjdverse/rjd3jars/actions/workflows/lint.yaml)
 <!-- badges: end -->
 
