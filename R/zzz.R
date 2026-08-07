@@ -21,6 +21,6 @@
         morePaths = jars_inst
     )
     if (!result) {
-        stop("Loading java packages failed", call. = FALSE)
+        stop("Loading Java packages failed", call. = FALSE)
     }
 }
