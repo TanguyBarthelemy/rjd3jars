@@ -26,7 +26,8 @@ get_java_version <- function() {
         returnSig = "S",
         method = "getProperty",
         "java.version"
-    )
+    ) |>
+        gsub(pattern = "^1\\.", replacement = "")
     jversion <- as.integer(regmatches(
         x = jversion,
         m = regexpr(pattern = "^(\\d+)", text = jversion)
