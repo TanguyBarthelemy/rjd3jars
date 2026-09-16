@@ -11,10 +11,13 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 * New spell check
 
+### Changed
+
+- Updated jdplus-main JARS from 3.8.1-SNAPSHOT to 3.9.0
+
 ### Fixed
 
 * `get_java_version` identifies `1.8.XXX` as Java 8.
-
 
 ## [0.0.5] - 2026-07-07
 
