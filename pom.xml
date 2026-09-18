@@ -11,8 +11,8 @@
 	<description>Usage: mvn -Pcopy-jars</description>
 
 	<properties>
-		<jdplus-main.version>3.8.0</jdplus-main.version>
-        <protobuf.version>4.35.1</protobuf.version>
+		<jdplus-main.version>3.9.0</jdplus-main.version>
+        <protobuf.version>4.36.1</protobuf.version>
 	</properties>
 
 	<dependencies>

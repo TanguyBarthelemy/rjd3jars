@@ -7,11 +7,25 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.0.6] - 2026-09-18
+
+### Added
+
+* New spell check
+
+### Changed
+
+- Updated jdplus-main JARS from 3.8.1-SNAPSHOT to 3.9.0
+
+### Fixed
+
+* `get_java_version` identifies `1.8.XXX` as Java 8.
+
 ## [0.0.5] - 2026-07-07
 
 ### Changed
 
-* Update .onAttach() with warning for java version
+* Update `.onAttach()` with warning for Java version
 
 ## [0.0.4] - 2026-07-06
 
@@ -50,7 +64,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 * Initial JARS related to version [33.1](https://github.com/protocolbuffers/protobuf/releases/tag/v33.1)
 
-[Unreleased]: https://github.com/rjdverse/rjd3jars/compare/v0.0.5...HEAD
+[Unreleased]: https://github.com/rjdverse/rjd3jars/compare/v0.0.6...HEAD
+[0.0.6]: https://github.com/rjdverse/rjd3jars/compare/v0.0.5...v0.0.6
 [0.0.5]: https://github.com/rjdverse/rjd3jars/compare/v0.0.4...v0.0.5
 [0.0.4]: https://github.com/rjdverse/rjd3jars/compare/v0.0.3...v0.0.4
 [0.0.3]: https://github.com/rjdverse/rjd3jars/compare/v0.0.2...v0.0.3
