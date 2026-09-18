@@ -1,4 +1,4 @@
-## Submission of {rjd3jars} v0.0.5 - 2026-07-07
+## Submission of {rjd3jars} v0.0.6 - 2026-09-18
 
 ### Changes
 
