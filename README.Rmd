@@ -24,7 +24,7 @@ knitr::opts_chunk$set(
 [![lint](https://github.com/rjdverse/rjd3jars/actions/workflows/lint.yml/badge.svg)](https://github.com/rjdverse/rjd3jars/actions/workflows/lint.yml)
 <!-- badges: end -->
 
-Utility package in JDemetra+ 3.x R ecosystem. Contains functions used in other `rjd3` packages and has to be systematically installed before using any other rjd3 package. 
+Utility package in JDemetra+ 3.x R ecosystem. Contains functions used in other `rjd3` packages, it will be automatically loaded as a dependency when installing other rjd3 packages from CRAN or R-universe. It has to be manually installed before any other installation from GitHub. 
 
 ## Installation
 
